@@ -1,4 +1,4 @@
-# PDF Generator
+# PDF pdf-Creator-mr
 
 Uma biblioteca simples para criação de PDFs em Python.
 A simple library for creating PDFs in Python.
