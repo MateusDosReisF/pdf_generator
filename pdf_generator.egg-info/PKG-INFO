@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pdf_generator
+Version: 0.1
+Summary: A simple PDF generation library
+Home-page: https://github.com/mateusdosreisf/pdf_generator
+Author: Mateus Reis
+Author-email: mateussgp12@gmail.com
+License-File: LICENSE
+Requires-Dist: reportlab
